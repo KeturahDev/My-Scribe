@@ -6,21 +6,9 @@
 
 ## **Description**
 
-_A personal reddit-style journal app. Organize your thoughts by creating thought boards and post individual thoughts/ideas to it! This versatile app can be used to collect your favorite memes, store app ideas, or record journal entries related to specific categories of your life. Post links, images, links to other websites, or blocks of text. 
+_A personal reddit-style journal app. Organize your thoughts by creating thought boards and post individual thoughts/ideas to it! This versatile app can be used to collect your favorite memes, store app ideas, or record journal entries related to specific categories of your life. Post links, images, links to other websites, or blocks of text._ 
 
 This is a teamweek project done to showcase the skills we learned through the Epicodus C# curriculum, demonstrating our knowledge of ASP.NET Core MVC routing, migrations with Entity Framerwork and SQL, and Authorization through Identity._
-
-## Preview
-
-<p align="center">
-  <img src="/img/SS1.png">
-	<img src="./img/SS2.png">
-	<img src="./img/SS3.png">
-	<img src="./img/SS4.png">
-	<img src="./img/SS5.png">
-</p>
-	
-## Specifications 
 
 ### User Stories:
 
@@ -41,12 +29,12 @@ This is a teamweek project done to showcase the skills we learned through the Ep
 
 ## **Minimum Viable Product (MVP)**
 
-The MVP of this project is to successfully create a user-friendly web application where users can create an account and post to a message board.
+The MVP of this project is to successfully create a user-friendly web application where users can create an account and post information to a board.
 
 Stretch goals include:
 
-* Allow images to be posted with both the board subject and posts.
-* Allow people to search the message board with specific queries.
+* Allow people to create public boards and view other accounts public boards
+* Allow users to message one another
 
 ## **Setup/Installation**
 
@@ -115,35 +103,24 @@ There are no known bugs at this time.
 
 ## **Support and contact details**
 
-If you have any questions, comments, or concerns, please feel free to contact our team at customerservice@MyScribe.net 
+If you have any questions, comments, or concerns, please feel free to contact keturah.dev@gmail.com
 
 ## **Technologies used**
 
-* _Git 2.23.0_
-
-* _C# language_
-
-* _.NET Core 2.2.106_
-
-* _dotnet script 0.50.1_
-
-* _Visual Studio Code 1.43.1_
-
-* _Model-View-Controller(MVC) framework_
-
-* _MySQL 8.0.15_
-
-* _MySQL Workbench 8.0.15_
-
-* _Entity Framework Core 2.2.4_
-
-* _ASP.NET Razor_
-
+* Git 2.23.0
+* C# language
+* .NET Core 2.2.106
+* dotnet script 0.50.1
+* Model-View-Controller(MVC) framework
+* MySQL 8.0.15
+* MySQL Workbench 8.0.15
+* Entity Framework Core 2.2.4
+* ASP.NET Razor
+* Bootstrap
+* CSS
+* HTML
 * GitBash
-
-* RestSharp version 106.6.10
-
-* Newtonsoft.Json version 12.0.2
+* Visual Studio Code 1.43.1
 
 ## **License**
 
