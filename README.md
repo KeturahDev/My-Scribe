@@ -8,7 +8,7 @@
 
 _A personal reddit-style journal app. Organize your thoughts by creating thought boards and post individual thoughts/ideas to it! This versatile app can be used to collect your favorite memes, store app ideas, or record journal entries related to specific categories of your life. Post links, images, links to other websites, or blocks of text._ 
 
-This is a teamweek project done to showcase the skills we learned through the Epicodus C# curriculum, demonstrating our knowledge of ASP.NET Core MVC routing, migrations with Entity Framerwork and SQL, and Authorization through Identity._
+This is a teamweek project done to showcase the skills we learned through the Epicodus C# curriculum, demonstrating our knowledge of ASP.NET Core MVC routing, migrations with Entity Framerwork and SQL, and Authorization through Identity.
 
 ### User Stories:
 
